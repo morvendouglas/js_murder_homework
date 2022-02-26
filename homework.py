@@ -25,7 +25,6 @@
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-
 // MINE
 
 var murderer = 'Ted Bundy'
@@ -51,12 +50,3 @@ var foundMurderer = function(){
 
 var suspects = foundMurderer()
 console.log(suspects)
-
-
-
-
-
-
-
-
-  
